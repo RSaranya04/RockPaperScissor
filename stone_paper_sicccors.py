@@ -27,7 +27,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+
 
 list = rock, scissors, paper
 type = int(
